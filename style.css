@@ -1,0 +1,23 @@
+#FormBox {
+    width: 170px;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+
+table,th,tr,td{
+    width: 700px;
+    height: 30px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+/* .Name{
+    text-align: center;
+    width: 25%;
+} */
+
+/* .StoreBox{
+    border: 1px solid black;
+} */
